@@ -1,4 +1,7 @@
 {
     "editor.formatOnSave": true,
-    "workbench.sash.size": 10
+    "workbench.sash.size": 10,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
 }
